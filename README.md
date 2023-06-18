@@ -1,7 +1,7 @@
 <h1 align="center">Proyecto de Ordenamiento de Números</h1>
 
 <p align="center">
-  <img src="project_logo.png" alt="Logo del Proyecto" width="200">
+  <img src="images/project_logo.png" alt="Logo del Proyecto" width="200">
 </p>
 
 ---
