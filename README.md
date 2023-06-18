@@ -64,7 +64,7 @@ Este proyecto es una interfaz gráfica en Python que permite ordenar arreglos de
 
 ## 📞 Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [email protected] o en Twitter [@k0t3tsu]([https://twitter.com/tuusuario]).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [email protected] o en Twitter [@k0t3tsu](https://twitter.com/tuusuario).
 
 ---
 
